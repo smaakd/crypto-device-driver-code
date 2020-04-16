@@ -1,0 +1,10 @@
+# Write your acknowledgement here..
+
+My mmap implementation is not working.
+
+for interrupts and multi-processing , I used semaphores. for different file discriptor handling, i maintained the context of fd in library itself.
+
+tested running 3 processes together.
+
+
+
